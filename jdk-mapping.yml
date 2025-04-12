@@ -87,3 +87,10 @@ jdk:
       -
     '17':
       -
+  macos-x86_64:
+    '1.8':
+      - https://github.com/gejun123456/HotSwapHelper/releases/download/1.0/macAdoptJdk-1.8-x64.zip
+    '11':
+      -
+    '17':
+      -
