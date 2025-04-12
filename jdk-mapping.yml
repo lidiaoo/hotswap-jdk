@@ -47,28 +47,28 @@ jbr:
 jdk:
   linux-arm64:
     '1.8':
-      - https://github.proxy.class3.fun/https://github.com/lidiaoo/hotswap-jdk/releases/download/1/jdk1.8.0_172_manjaro_linux.zip
+      - https://gh-proxy.ygxz.in/https://github.com/lidiaoo/hotswap-jdk/releases/download/1/jdk1.8.0_172_manjaro_linux.zip
     '11':
       -
     '17':
       -
   linux-amd64:
     '1.8':
-      - https://github.proxy.class3.fun/https://github.com/lidiaoo/hotswap-jdk/releases/download/1/jdk1.8.0_172_manjaro_linux.zip
+      - https://gh-proxy.ygxz.in/https://github.com/lidiaoo/hotswap-jdk/releases/download/1/jdk1.8.0_172_manjaro_linux.zip
     '11':
       - 
     '17':
       - 
   windows-x64:
     '1.8':
-      - https://github.proxy.class3.fun/https://github.com/gejun123456/HotSwapHelper/releases/download/1.0/windows-jdk1.8.0_172.zip
+      - https://gh-proxy.ygxz.in/https://github.com/gejun123456/HotSwapHelper/releases/download/1.0/windows-jdk1.8.0_172.zip
     '11':
       - 
     '17':
       -
   windows-amd64:
     '1.8':
-      - https://github.proxy.class3.fun/https://github.com/gejun123456/HotSwapHelper/releases/download/1.0/windows-jdk1.8.0_172.zip
+      - https://gh-proxy.ygxz.in/https://github.com/gejun123456/HotSwapHelper/releases/download/1.0/windows-jdk1.8.0_172.zip
     '11':
       -
     '17':
